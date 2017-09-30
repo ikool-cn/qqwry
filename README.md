@@ -1,4 +1,4 @@
-# golang for qqwry
+# golang ip address query with qqwry
     qqwry.dat version: 20170610
     
 **usage:**
